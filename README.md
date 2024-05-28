@@ -1,1 +1,1 @@
-# crop
+Federated Learning is an emerging technology to make an decentralized model where data is not stored at server level, model weights are shared with clients and clients with their own data will train the model.
